@@ -1,11 +1,11 @@
 {
-    "name": "coba123",
-    "short_name": "coba123",
+    "name": "MMU A-44",
+    "short_name": "MMU A-44",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Madrasah Miftahul Ulum A-44.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
