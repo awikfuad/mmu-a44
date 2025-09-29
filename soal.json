@@ -52,13 +52,23 @@
     },
     {
       "id": 2,
-      "kelas": "kelas3",
+      "kelas": "kelas 2",
       "nama": "Fiqh  Fik .pdf"
     },
     {
       "id": 2,
-      "kelas": "kelas 3",
+      "kelas": "kelas 2",
+      "nama": "2 - IMDA.pdf"
+    },
+     {
+      "id": 2,
+      "kelas": "kelas 2",
       "nama": "I'lal Fik .pdf"
+    },
+    {
+      "id": 3,
+      "kelas": "kelas 3",
+      "nama": "3 - IMDA.pdf"
     },
     {
       "id": 3,
@@ -329,6 +339,61 @@
         "id": "7",
         "kelas": "kelas 2 ts",
         "nama": "TAMRIN MASSAL USHUL FIQIH 2 FIX.pdf"
+    },
+     {
+        "id": "4",
+        "kelas": "kelas 2 ts",
+        "nama": "4 - IMDA 1.pdf"
+    },
+    {
+        "id": "4",
+        "kelas": "kelas 2 ts",
+        "nama": "4 - IMDA 2.pdf"
+    },
+    {
+        "id": "4",
+        "kelas": "kelas 2 ts",
+        "nama": "4 - IMDA 3.pdf"
+    },
+    {
+        "id": "5",
+        "kelas": "kelas 2 ts",
+        "nama": "5 - IMDA 1.pdf"
+    },
+    {
+        "id": "5",
+        "kelas": "kelas 2 ts",
+        "nama": "5 - IMDA 2.pdf"
+    },
+    {
+        "id": "5",
+        "kelas": "kelas 2 ts",
+        "nama": "5 - IMDA 3.pdf"
+    },
+    {
+        "id": "6",
+        "kelas": "kelas 2 ts",
+        "nama": "6 - IMDA 1.pdf"
+    },
+    {
+        "id": "6",
+        "kelas": "kelas 2 ts",
+        "nama": "6 - IMDA 2.pdf"
+    },
+    {
+        "id": "6",
+        "kelas": "kelas 2 ts",
+        "nama": "6 - IMDA 3 revisi 23-11-24.pdf"
+    },
+    {
+        "id": "6",
+        "kelas": "kelas 2 ts",
+        "nama": "Baca Kitab Fathul Qorib Kelas 6.pdf"
+    },
+    {
+        "id": "6",
+        "kelas": "kelas 2 ts",
+        "nama": "Baca Kitab Sullam Taufiq V2.pdf"
     }
   ]
 }
