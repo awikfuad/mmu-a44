@@ -3,192 +3,476 @@
     {
       "id": 1,
       "kelas": "kelas 1",
+      "imda": "2",
       "nama": "Bhs. Arab. SIAP.pdf"
     },
     {
       "id": 1,
       "kelas": "kelas 1",
+      "imda": "2",
       "nama": "Fasholatan. SIAP.pdf"
     },
     {
       "id": 1,
       "kelas": "kelas 1",
+      "imda": "2",
       "nama": "Fiqih. SIAP.pdf"
     },
     {
       "id": 1,
       "kelas": "kelas 1",
+      "imda": "2",
       "nama": "Tauhid. SIAP.pdf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "01 FIQIH SIAP.pdf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "02 BHS ARAB SIAP.pdf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "02 BHS ARAB SIAP.rtf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "03 TAJWID SIAP.pdf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "04 TARIKH SIAP.pdf"
     },
     {
       "id": 2,
       "kelas": "kelas 2",
+      "imda": "2",
       "nama": "05 TAUHID SIAP.pdf"
     },
     {
       "id": 2,
-      "kelas": "kelas3",
+      "kelas": "kelas 2",
+      "imda": "2",
       "nama": "Fiqh  Fik .pdf"
     },
     {
       "id": 2,
-      "kelas": "kelas 3",
+      "kelas": "kelas 2",
+      "imda": "0",
+      "nama": "2 - IMDA.pdf"
+    },
+    {
+      "id": 2,
+      "kelas": "kelas 2",
+      "imda": "2",
       "nama": "I'lal Fik .pdf"
     },
     {
       "id": 3,
       "kelas": "kelas 3",
+      "imda": "0",
+      "nama": "3 - IMDA.pdf"
+    },
+    {
+      "id": 3,
+      "kelas": "kelas 3",
+      "imda": "2",
       "nama": "Shorrof Fik .pdf"
     },
     {
       "id": 3,
       "kelas": "kelas 3",
+      "imda": "2",
       "nama": "Tajwid Fik .pdf"
     },
     {
       "id": 3,
       "kelas": "kelas 3",
+      "imda": "2",
       "nama": "Tarikh Fik  .pdf"
     },
     {
       "id": 3,
       "kelas": "kelas 3",
+      "imda": "2",
       "nama": "Tauhid Fik .pdf"
     },
     {
       "id": 4,
       "kelas": "kelas 4",
+      "imda": "2",
       "nama": "02. TAUHID KELAS 4.pdf"
     },
     {
       "id": 4,
       "kelas": "kelas 4",
+      "imda": "2",
       "nama": "03. Akhlaq Kelas 4.pdf"
     },
     {
       "id": 4,
       "kelas": "kelas 4",
+      "imda": "2",
       "nama": "04. TAJWID KELAS 4.pdf"
     },
     {
       "id": 4,
       "kelas": "kelas 4",
+      "imda": "2",
       "nama": "05. NAHWU KELAS 4.pdf"
     },
     {
       "id": 4,
       "kelas": "kelas 4",
+      "imda": "2",
       "nama": "06. Tarikh kelas 4.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "01. FIQIH KELAS 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "02. Tauhid kelas 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "04. TARIKH KELAS 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "05. AKHLAQ KELAS 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "06. TAFSIR KELAS 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "07. NAHWU KELAS 5.pdf"
     },
     {
       "id": 5,
       "kelas": "kelas 5",
+      "imda": "2",
       "nama": "08. MAQSUD KELAS 5.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "01. FIQIH KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "02. TAUHID KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "03. HADIST KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "04. FAROIDL KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "05. AKHLAQ KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "06. TARIKH KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "07. TAFSIR KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "08. NAHWU KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "09. BALAGHOH KELAS 6.pdf"
     },
     {
       "id": 6,
       "kelas": "kelas 6",
+      "imda": "2",
       "nama": "09. Balaghoh Kelas 6 jadi.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "01. Fikih.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "02. Nahwu.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "03. Tauhid.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "04. Arudhl.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "05. Mustolah Hadits.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "06. Tafsir.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "07. Tarikh.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "08. Usul Fikih.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "09. Mantiq.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "10. Balaghah.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "11. Qoidah Fiqh.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "12. Akhlaq.pdf"
+    },
+    {
+      "id": 8,
+      "kelas": "kelas 2 ts",
+      "imda": "2",
+      "nama": "13. Hadits.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "Falak 2 TAMRIN II INDUK oke1.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "Falak 2 TAMRIN II RANTING OKE2.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL AKHLAQ 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL ARUDL 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL BALAGHOH 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL FIQIH 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL HADITS 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL MANTIQ 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL MUSTOLAH 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL NAHWU 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL QOIDAH FIQIH 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL TAFSIR 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL TARIKH 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL TAUHID 2 FIX.pdf"
+    },
+    {
+      "id": 7,
+      "kelas": "kelas 7",
+      "imda": "2",
+      "nama": "TAMRIN MASSAL USHUL FIQIH 2 FIX.pdf"
+    },
+    {
+      "id": "4",
+      "kelas": "kelas 4",
+      "imda": "0",
+      "nama": "4 - IMDA 1.pdf"
+    },
+    {
+      "id": "4",
+      "kelas": "kelas 4",
+      "imda": "0",
+      "nama": "4 - IMDA 2.pdf"
+    },
+    {
+      "id": "4",
+      "kelas": "kelas 4",
+      "imda": "0",
+      "nama": "4 - IMDA 3.pdf"
+    },
+    {
+      "id": 5,
+      "kelas": "kelas 5",
+      "imda": "0",
+      "nama": "5 - IMDA 1.pdf"
+    },
+    {
+      "id": 5,
+      "kelas": "kelas 5",
+      "imda": "0",
+      "nama": "5 - IMDA 2.pdf"
+    },
+    {
+      "id": 5,
+      "kelas": "kelas 5",
+      "imda": "0",
+      "nama": "5 - IMDA 3.pdf"
+    },
+    {
+      "id": 6,
+      "kelas": "kelas 6",
+      "imda": "0",
+      "nama": "6 - IMDA 1.pdf"
+    },
+    {
+      "id": 6,
+      "kelas": "kelas 6",
+      "imda": "0",
+      "nama": "6 - IMDA 2.pdf"
+    },
+    {
+      "id": 6,
+      "kelas": "kelas 6",
+      "imda": "0",
+      "nama": "6 - IMDA 3 revisi 23-11-24.pdf"
+    },
+    {
+      "id": 6,
+      "kelas": "kelas 6",
+      "imda": "0",
+      "nama": "Baca Kitab Fathul Qorib Kelas 6.pdf"
+    },
+    {
+      "id": 6,
+      "kelas": "kelas 6",
+      "imda": "0",
+      "nama": "Baca Kitab Sullam Taufiq V2.pdf"
     }
   ]
 }
