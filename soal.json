@@ -25,37 +25,37 @@
       "nama": "Tauhid. SIAP.pdf"
     },
         {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Bhs. Arab OKKK.pdf"
     },
     {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Fasholatan OKKK.pdf"
     },
     {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Fiqih OKKK.pdf"
     },
     {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Imla' OK.pdf"
     },
     {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Tahsin OK.pdf"
     },
     {
-        "id": "1",
+        "id": 1,
         "kelas": "kelas 1",
         "imda": "3",
         "nama": "Tauhid OKKK.pdf"
@@ -115,43 +115,43 @@
       "nama": "I'lal Fik .pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "01. Tajwid FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "02. Bhs. Arab FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "03. Tauhid FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "04. Fiqh FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "05. Tarekh FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "06. Imla' FIK.pdf"
     },
     {
-        "id": "2",
+        "id": 2,
         "kelas": "kelas 2",
         "imda": "3",
         "nama": "07. Tahsin FIKk.pdf"
@@ -217,49 +217,49 @@
       "nama": "06. Tarikh kelas 4.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "01. Fiqh FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "02. Tauhid FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "03. Akhlaq FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "04. Nahwu FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "05. Shorof FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "06. Imla' FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "07. Tarekh FIK.pdf"
     },
     {
-        "id": "4",
+        "id": 4,
         "kelas": "kelas 4",
         "imda": "3",
         "nama": "08. Tajwid FIK.pdf"
