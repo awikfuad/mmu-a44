@@ -3,6 +3,17 @@
         {
             "id": 1,
             "kode": "a1",
+            "nama": "biografi",
+            "warna": "-",
+            "ukuran": "all size",
+            "harga": 75000,
+            "gambar": "biografi.png",
+            "route": "/biografi",
+            "keterangan": "-"
+              },
+        {
+            "id": 2,
+            "kode": "a1",
             "nama": "kaos",
             "warna": "hitam",
             "ukuran": "all size",
@@ -12,7 +23,7 @@
             "keterangan": "kain 100% katun premium yang telah disisir halus, menawarkan ketebalan sedang (sekitar 170-180 GSM) yang terasa lebih kokoh daripada 30s tapi tidak setebal 20s, sangat lembut, sejuk, menyerap keringat, dan tidak mudah kusut, cocok untuk sehari-hari, casual, atau oversize karena nyaman di kulit dan tahan lama. "
         },
         {
-            "id": 2,
+            "id": 3,
             "kode": "a3",
             "nama": "baju Takwa",
             "warna": "putih",
@@ -23,7 +34,7 @@
             "keterangan": "-"
         },
         {
-            "id": 3,
+            "id": 4,
             "kode": "a4",
             "nama": "jilbab",
             "warna": "putih",
@@ -34,7 +45,7 @@
             "keterangan": "-"
         },
         {
-            "id": 4,
+            "id": 5,
             "kode": "a5",
             "nama": "songkok",
             "warna": "putih",
@@ -45,7 +56,7 @@
             "keterangan": "-"
         },
         {
-            "id": 5,
+            "id": 6,
             "kode": "a6",
             "nama": "gantungan Kunci",
             "warna": "-",
@@ -53,6 +64,17 @@
             "harga": 0,
             "gambar": "gantungan Kunci.png",
             "route": "/ganci",
+            "keterangan": "-"
+        },
+         {
+            "id": 7,
+            "kode": "a6",
+            "nama": "sticker printing",
+            "warna": "-",
+            "ukuran": "-",
+            "harga": 0,
+            "gambar": "sticker.png",
+            "route": "/sticker",
             "keterangan": "-"
         }
     ]
