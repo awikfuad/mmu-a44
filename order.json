@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "kode": "a1",
+            "nama": "kaos",
+            "warna": "hitam",
+            "ukuran": "all size",
+            "harga": 75000,
+            "gambar": "kaos hitam.png",
+            "route": "/kaos",
+            "keterangan": "kain 100% katun premium yang telah disisir halus, menawarkan ketebalan sedang (sekitar 170-180 GSM) yang terasa lebih kokoh daripada 30s tapi tidak setebal 20s, sangat lembut, sejuk, menyerap keringat, dan tidak mudah kusut, cocok untuk sehari-hari, casual, atau oversize karena nyaman di kulit dan tahan lama. "
+        },
+        {
+            "id": 2,
+            "kode": "a3",
+            "nama": "baju Takwa",
+            "warna": "putih",
+            "ukuran": "8",
+            "harga": "??????",
+            "gambar": "baju takwa.png",
+            "route": "/takwa",
+            "keterangan": "??????"
+        },
+        {
+            "id": 3,
+            "kode": "a4",
+            "nama": "jilbab",
+            "warna": "putih",
+            "ukuran": "??????",
+            "harga": "??????",
+            "gambar": "jilbab.png",
+            "route": "/jilbab",
+            "keterangan": "??????"
+        },
+        {
+            "id": 4,
+            "kode": "a5",
+            "nama": "songkok",
+            "warna": "putih",
+            "ukuran": "??????",
+            "harga": "??????",
+            "gambar": "songkok.png",
+            "route": "/songkok",
+            "keterangan": "??????"
+        },
+        {
+            "id": 5,
+            "kode": "a6",
+            "nama": "gantungan Kunci",
+            "warna": "??????",
+            "ukuran": "??????",
+            "harga": "??????",
+            "gambar": "gantungan Kunci.png",
+            "route": "/ganci",
+            "keterangan": "??????"
+        }
+    ]
+}
