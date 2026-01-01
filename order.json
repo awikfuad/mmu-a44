@@ -6,10 +6,11 @@
             "nama": "biografi",
             "warna": "-",
             "ukuran": "all size",
-            "harga": 75000,
+            "harga": 20000,
             "gambar": "biografi.png",
             "route": "/biografi",
-            "keterangan": "-"
+            "keterangan": "Buku ini menyajikan biografi lengkap Kyai Ahmad Nizar, seorang ulama kharismatik yang memiliki peran MUASSIS MMU A-44 penting dalam perkembangan dakwah, pendidikan, dan sosial keagamaan di lingkungannya. Melalui narasi yang runtut, buku ini menggambarkan perjalanan hidup beliau sejak masa kecil, pendidikan, kiprah dakwah, hingga membina umat."
+
               },
         {
             "id": 2,
