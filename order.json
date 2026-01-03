@@ -86,6 +86,7 @@
             "ukuran": "-",
             "harga": 0,
             "system": "beli",
+            "kwantiti": 0,
             "gambar": "sticker.png",
             "route": "/sticker",
             "keterangan": "-"
