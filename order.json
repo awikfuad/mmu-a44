@@ -7,11 +7,12 @@
             "warna": "-",
             "ukuran": "all size",
             "harga": 20000,
+            "system": "beli",
+            "kwantiti": 0,
             "gambar": "biografi.png",
             "route": "/biografi",
             "keterangan": "Buku ini menyajikan biografi lengkap Kyai Ahmad Nizar, seorang ulama kharismatik yang memiliki peran MUASSIS MMU A-44 penting dalam perkembangan dakwah, pendidikan, dan sosial keagamaan di lingkungannya. Melalui narasi yang runtut, buku ini menggambarkan perjalanan hidup beliau sejak masa kecil, pendidikan, kiprah dakwah, hingga membina umat."
-
-              },
+        },
         {
             "id": 2,
             "kode": "a1",
@@ -19,6 +20,8 @@
             "warna": "hitam",
             "ukuran": "all size",
             "harga": 75000,
+            "system": "order",
+            "kwantiti": 0,
             "gambar": "kaos hitam.png",
             "route": "/kaos",
             "keterangan": "kain 100% katun premium yang telah disisir halus, menawarkan ketebalan sedang (sekitar 170-180 GSM) yang terasa lebih kokoh daripada 30s tapi tidak setebal 20s, sangat lembut, sejuk, menyerap keringat, dan tidak mudah kusut, cocok untuk sehari-hari, casual, atau oversize karena nyaman di kulit dan tahan lama. "
@@ -30,6 +33,8 @@
             "warna": "putih",
             "ukuran": "8",
             "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
             "gambar": "baju takwa.png",
             "route": "/takwa",
             "keterangan": "-"
@@ -41,6 +46,8 @@
             "warna": "putih",
             "ukuran": "-",
             "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
             "gambar": "jilbab.png",
             "route": "/jilbab",
             "keterangan": "-"
@@ -51,7 +58,9 @@
             "nama": "songkok",
             "warna": "putih",
             "ukuran": "-",
-           "harga": 0,
+            "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
             "gambar": "songkok.png",
             "route": "/songkok",
             "keterangan": "-"
@@ -63,17 +72,20 @@
             "warna": "-",
             "ukuran": "-",
             "harga": 0,
+            "system": "beli",
+            "kwantiti": 0,
             "gambar": "gantungan kunci.png",
             "route": "/ganci",
             "keterangan": "-"
         },
-         {
+        {
             "id": 7,
             "kode": "a6",
             "nama": "sticker printing",
             "warna": "-",
             "ukuran": "-",
             "harga": 0,
+            "system": "beli",
             "gambar": "sticker.png",
             "route": "/sticker",
             "keterangan": "-"
