@@ -4,8 +4,16 @@
             "id": 1,
             "kode": "a1",
             "nama": "BIOGRAFI KYAI AHMAD NIZAR MAKSUM",
-            "warna":[ "tidak ada warna"],
-            "ukuran": ["all size"],
+            "warna": [
+                {
+                    "nama": "tidak ada warna"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "all size"
+                }
+            ],
             "harga": 20000,
             "system": "beli",
             "kwantiti": 0,
@@ -17,8 +25,27 @@
             "id": 2,
             "kode": "a1",
             "nama": "kaos",
-            "warna": ["hitam","putih"],
-            "ukuran": ["S","M","L","XL","XXL"],
+            "warna": [
+                "hitam",
+                "putih"
+            ],
+            "ukuran": [
+                {
+                    "nama": "S"
+                },
+                {
+                    "nama": "M"
+                },
+                {
+                    "nama": "L"
+                },
+                {
+                    "nama": "XL"
+                },
+                {
+                    "nama": "XXL"
+                }
+            ],
             "harga": 75000,
             "system": "order",
             "kwantiti": 0,
@@ -30,8 +57,25 @@
             "id": 3,
             "kode": "a3",
             "nama": "baju Takwa",
-            "warna":[ "putih"],
-            "ukuran": ["S","M","L","XL"],
+            "warna": [
+                {
+                    "nama": "putih"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "S"
+                },
+                {
+                    "nama": "M"
+                },
+                {
+                    "nama": "L"
+                },
+                {
+                    "nama": "XL"
+                }
+            ],
             "harga": 0,
             "system": "order",
             "kwantiti": 0,
@@ -43,8 +87,16 @@
             "id": 4,
             "kode": "a4",
             "nama": "jilbab",
-            "warna": [ "putih"],
-            "ukuran": ["all size"],
+            "warna": [
+                {
+                    "nama": "hitam"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "all size"
+                }
+            ],
             "harga": 0,
             "system": "order",
             "kwantiti": 0,
@@ -56,8 +108,19 @@
             "id": 5,
             "kode": "a5",
             "nama": "songkok",
-            "warna": [ "putih"],
-            "ukuran": ["2","3"],
+            "warna": [
+                {
+                    "nama": "putih"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "2"
+                },
+                {
+                    "nama": "3"
+                }
+            ],
             "harga": 0,
             "system": "order",
             "kwantiti": 0,
@@ -69,8 +132,16 @@
             "id": 6,
             "kode": "a6",
             "nama": "gantungan Kunci",
-            "warna":[ "-"],
-            "ukuran":["all size"],
+            "warna": [
+                {
+                    "nama": "-"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "all size"
+                }
+            ],
             "harga": 0,
             "system": "beli",
             "kwantiti": 0,
@@ -82,8 +153,16 @@
             "id": 7,
             "kode": "a6",
             "nama": "sticker printing",
-            "warna": ["-"],
-            "ukuran": ["all size"],
+            "warna": [
+                {
+                    "nama": "-"
+                }
+            ],
+            "ukuran": [
+                {
+                    "nama": "all size"
+                }
+            ],
             "harga": 0,
             "system": "beli",
             "kwantiti": 0,
