@@ -1,0 +1,95 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "kode": "a1",
+            "nama": "BIOGRAFI KYAI AHMAD NIZAR MAKSUM",
+            "warna": "-",
+            "ukuran": ["all size"],
+            "harga": 20000,
+            "system": "beli",
+            "kwantiti": 0,
+            "gambar": "biografi.png",
+            "route": "/biografi",
+            "keterangan": "Buku ini menyajikan biografi lengkap Kyai Ahmad Nizar, seorang ulama kharismatik yang memiliki peran MUASSIS MMU A-44 penting dalam perkembangan dakwah, pendidikan, dan sosial keagamaan di lingkungannya. Melalui narasi yang runtut, buku ini menggambarkan perjalanan hidup beliau sejak masa kecil, pendidikan, kiprah dakwah, hingga membina umat."
+        },
+        {
+            "id": 2,
+            "kode": "a1",
+            "nama": "kaos",
+            "warna": "hitam",
+            "ukuran": ["S","M","L","XL","XXL"],
+            "harga": 75000,
+            "system": "order",
+            "kwantiti": 0,
+            "gambar": "kaos hitam.png",
+            "route": "/kaos",
+            "keterangan": "kain 100% katun premium yang telah disisir halus, menawarkan ketebalan sedang (sekitar 170-180 GSM) yang terasa lebih kokoh daripada 30s tapi tidak setebal 20s, sangat lembut, sejuk, menyerap keringat, dan tidak mudah kusut, cocok untuk sehari-hari, casual, atau oversize karena nyaman di kulit dan tahan lama. "
+        },
+        {
+            "id": 3,
+            "kode": "a3",
+            "nama": "baju Takwa",
+            "warna": "putih",
+            "ukuran": ["S","M","L","XL"],
+            "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
+            "gambar": "baju takwa.png",
+            "route": "/takwa",
+            "keterangan": "-"
+        },
+        {
+            "id": 4,
+            "kode": "a4",
+            "nama": "jilbab",
+            "warna": "putih",
+            "ukuran": ["all size"],
+            "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
+            "gambar": "jilbab.png",
+            "route": "/jilbab",
+            "keterangan": "-"
+        },
+        {
+            "id": 5,
+            "kode": "a5",
+            "nama": "songkok",
+            "warna": "putih",
+            "ukuran": ["2","3"],
+            "harga": 0,
+            "system": "order",
+            "kwantiti": 0,
+            "gambar": "songkok.png",
+            "route": "/songkok",
+            "keterangan": "-"
+        },
+        {
+            "id": 6,
+            "kode": "a6",
+            "nama": "gantungan Kunci",
+            "warna": "-",
+            "ukuran":["all size"],
+            "harga": 0,
+            "system": "beli",
+            "kwantiti": 0,
+            "gambar": "gantungan kunci.png",
+            "route": "/ganci",
+            "keterangan": "-"
+        },
+        {
+            "id": 7,
+            "kode": "a6",
+            "nama": "sticker printing",
+            "warna": "-",
+            "ukuran": ["all size"],
+            "harga": 0,
+            "system": "beli",
+            "kwantiti": 0,
+            "gambar": "sticker.png",
+            "route": "/sticker",
+            "keterangan": "-"
+        }
+    ]
+}
